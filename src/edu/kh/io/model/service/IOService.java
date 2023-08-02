@@ -30,7 +30,7 @@ public class IOService {
 			// 현재 프로그램에서 test1.txt파일로 출력하는 통로 객체 생성
 			
 			// 파일에 "Hello" 내보내기
-			String str = "Hello";
+			String str = "Hello.";
 			
 			for(int i = 0; i < str.length(); i++) {
 				// "hello" 를 한문자씩 끊어서 파일로 출력
